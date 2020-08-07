@@ -1,6 +1,6 @@
 // =======Options START=======
 var authConfig = {
-  siteName: "GoIndex-theme-acrou", // 网站名称
+  siteName: "枯叶的谷歌云端网盘", // 网站名称
   version: "1.1.1", // 程序版本
   theme: "acrou",
   // 强烈推荐使用自己的 client_id 和 client_secret
@@ -22,8 +22,8 @@ var authConfig = {
    */
   roots: [
     {
-      id: "",
-      name: "TeamDrive",
+      id: "1yXjFRUPl4PsHI4lM1YEF1980sz9iqCCD",
+      name: "KuYeHQ的云端网盘",
       pass: "",
     },
     {
